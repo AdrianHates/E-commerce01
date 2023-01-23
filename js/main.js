@@ -132,7 +132,7 @@ products = [
     {
         "id": "pants-01",
         "titulo": "Pant 01",
-        "imagen": "./img/pants/01.jpg",
+        "imagen": "./img/Pants/01.jpg",
         "categoria": {
             "nombre": "Pants",
             "id": "pants"
@@ -142,7 +142,7 @@ products = [
     {
         "id": "pants-02",
         "titulo": "Pant 02",
-        "imagen": "./img/pants/02.jpg",
+        "imagen": "./img/Pants/02.jpg",
         "categoria": {
             "nombre": "Pants",
             "id": "pants"
@@ -152,7 +152,7 @@ products = [
     {
         "id": "pants-03",
         "titulo": "Pant 03",
-        "imagen": "./img/pants/03.jpg",
+        "imagen": "./img/Pants/03.jpg",
         "categoria": {
             "nombre": "Pants",
             "id": "pants"
@@ -162,7 +162,7 @@ products = [
     {
         "id": "pants-04",
         "titulo": "Pant 04",
-        "imagen": "./img/pants/04.jpg",
+        "imagen": "./img/Pants/04.jpg",
         "categoria": {
             "nombre": "Pants",
             "id": "pants"
@@ -172,7 +172,7 @@ products = [
     {
         "id": "pants-05",
         "titulo": "Pant 05",
-        "imagen": "./img/pants/05.jpg",
+        "imagen": "./img/Pants/05.jpg",
         "categoria": {
             "nombre": "Pants",
             "id": "pants"
