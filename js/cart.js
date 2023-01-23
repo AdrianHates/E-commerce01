@@ -44,15 +44,16 @@ function updateProductsCart() {
             contentCartProducts.append(div);
         })
         updateButtonsDelete()
-    updateTotal();
+        updateTotal(); 
 
     } else {
         contentEmptyCart.classList.remove("disabled");
         contentCartProducts.classList.add("disabled");
         contentCartActions.classList.add("disabled");
         contentCartPurchased.classList.add("disabled");
+        
     }
-    
+     
 }
 
 updateProductsCart()
@@ -94,6 +95,6 @@ function buyCart() {
     contentEmptyCart.classList.add("disabled");
     contentCartProducts.classList.add("disabled");
     contentCartActions.classList.add("disabled");
-    contentCartPurchased.classList.remove("disabled");
+    contentCartPurchased.classList.remove("disabled");  
     
 }
